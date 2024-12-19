@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;900&family=Poppins:wght@300;700&family=Source+Sans+3:wght@400;700;900&display=swap');
+main{
+    text-align: center;
+    width: 100%;
+}
+h2{
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 400;
+    font-size: 38,666666666666664px;
+    background-color: #04146c;
+    color: white;
+}
+h1{
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: black;
+    font-size: 88px;
+    color: #04146c;
+}
+h3{
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 400;
+    font-size: 26,6px;
+    color: #04146c;
+}
+strong{
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 700;
+    font-size: 26,6px;
+    color: #04146c;
+}
+img{
+    width: 50%;
+    border: 1px solid black;
+}
+p{
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #04146c;
+    background-color: #edf7ff;
+}
